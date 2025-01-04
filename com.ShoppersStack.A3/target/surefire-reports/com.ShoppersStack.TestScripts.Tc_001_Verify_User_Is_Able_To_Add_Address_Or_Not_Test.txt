@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ShoppersStack.TestScripts.Tc_001_Verify_User_Is_Able_To_Add_Address_Or_Not_Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 47.18 s -- in com.ShoppersStack.TestScripts.Tc_001_Verify_User_Is_Able_To_Add_Address_Or_Not_Test
